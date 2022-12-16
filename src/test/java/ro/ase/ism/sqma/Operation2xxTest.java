@@ -18,6 +18,4 @@ public class Operation2xxTest {
         int expected = 201;
         assertEquals(expected, actual);
     }
-
-
 }
