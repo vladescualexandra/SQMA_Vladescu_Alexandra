@@ -1,0 +1,11 @@
+package ro.ase.ism.sqma;
+
+public enum Codes {
+
+    RESPONSE_OK,
+    RESPONSE_CREATED,
+    RESPONSE_BAD_REQUEST,
+    RESPONSE_UNAUTHORIZED,
+    RESPONSE_NOT_FOUND,
+    RESPONSE_ERROR
+}
